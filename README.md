@@ -16,7 +16,7 @@ Eventually, after we get the grayscale image, we can find the contour by `cv2.fi
 
 ## Projects
 
-- Deal with the images, and then compute the are value of intersection and union - [Link]([https://github.com/chiehpower/cv2_intersection_union/blob/master/Get%20the%20intersection%20area%20and%20union%20area%20between%20two%20irregular%20shapes.ipynb](https://github.com/chiehpower/cv2_intersection_union/blob/master/Get the intersection area and union area between two irregular shapes.ipynb)
+- Deal with the images, and then compute the are value of intersection and union - [Link](https://github.com/chiehpower/cv2_intersection_union/blob/master/Get%20the%20intersection%20area%20and%20union%20area%20between%20two%20irregular%20shapes.ipynb)
 
 - Deal with the 2D coordinates (x,y), and then compute the are value of intersection and union - [Link]() 
 
